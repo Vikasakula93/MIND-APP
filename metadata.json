@@ -1,0 +1,6 @@
+{
+  "name": "MindDojo",
+  "description": "AI MindSelf - Personal Metacognitive AI Companion, Cognitive Reframe & Somatic Regulation Studio",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

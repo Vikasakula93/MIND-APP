@@ -530,3 +530,4 @@ export const DeepWorkFocusMode: React.FC<DeepWorkFocusModeProps> = ({
     </div>
   );
 };
+

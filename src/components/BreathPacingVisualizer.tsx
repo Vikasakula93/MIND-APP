@@ -532,3 +532,4 @@ export const BreathPacingVisualizer: React.FC<BreathPacingVisualizerProps> = ({ 
 
   return containerContent;
 };
+

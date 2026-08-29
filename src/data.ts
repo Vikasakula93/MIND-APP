@@ -73,7 +73,7 @@ export const initialRecentInsights: RecentInsight[] = [
     iconType: 'trend',
     fullContent:
       'Statistical review of your last 10 evening reflection logs demonstrates a 15% improvement in cognitive clarity score when sessions are logged before 9:00 PM.',
-    date: 'Today',
+    date: 'Just now',
   },
   {
     id: 'ins-2',
@@ -82,7 +82,7 @@ export const initialRecentInsights: RecentInsight[] = [
     iconType: 'brain',
     fullContent:
       'The Decatastrophizing Matrix helps dissect catastrophic expectations into "Best Case", "Worst Case", and "Most Likely Case", drastically reducing physiological cortisol spikes.',
-    date: 'Yesterday',
+    date: 'Just now',
   },
 ];
 
@@ -188,7 +188,7 @@ export const initialBadges: BadgeItem[] = [
     name: 'First Reflection',
     icon: 'sparkles',
     description: 'Completed your first interactive CBT thought reframing session.',
-    earnedDate: '2 weeks ago',
+    earnedDate: 'Just now',
     unlocked: true,
   },
   {
@@ -196,7 +196,7 @@ export const initialBadges: BadgeItem[] = [
     name: '7-Day Streak',
     icon: 'flame',
     description: 'Logged mind reflections continuously for 7 consecutive days.',
-    earnedDate: 'Today',
+    earnedDate: 'Just now',
     unlocked: true,
   },
   {
@@ -204,7 +204,7 @@ export const initialBadges: BadgeItem[] = [
     name: 'Thought Hunter',
     icon: 'brain',
     description: 'Identified and cataloged over 10 distinct cognitive distortions.',
-    earnedDate: '3 days ago',
+    earnedDate: 'Just now',
     unlocked: true,
   },
   {
@@ -212,7 +212,7 @@ export const initialBadges: BadgeItem[] = [
     name: 'Stoic Mind',
     icon: 'compass',
     description: 'Applied 5 Stoic reframing principles to high-stress situations.',
-    earnedDate: '5 days ago',
+    earnedDate: 'Just now',
     unlocked: true,
   },
   {
@@ -220,7 +220,7 @@ export const initialBadges: BadgeItem[] = [
     name: 'Mission Master',
     icon: 'target',
     description: 'Successfully completed 10 exposure tasks and experiments.',
-    earnedDate: '1 week ago',
+    earnedDate: 'Just now',
     unlocked: true,
   },
   {
@@ -228,7 +228,8 @@ export const initialBadges: BadgeItem[] = [
     name: 'Decatastrophizer',
     icon: 'shield',
     description: 'Reframed a catastrophic thought with >80% emotion reduction.',
-    earnedDate: '4 days ago',
+    earnedDate: 'Just now',
     unlocked: true,
   },
 ];
+

@@ -93,3 +93,4 @@ export interface UserPreferences {
   darkMode: boolean;
   privacyLocked: boolean;
 }
+

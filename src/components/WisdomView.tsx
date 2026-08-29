@@ -473,3 +473,4 @@ export const WisdomView: React.FC<WisdomViewProps> = ({
     </div>
   );
 };
+

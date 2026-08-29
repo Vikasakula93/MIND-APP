@@ -13,6 +13,20 @@ Millions of individuals experience daily stress, anxiety, burnout, and persisten
 
 ---
 
+## Features
+* Daily Good Morning Message/Mantra With Speaker
+* Soundscapes
+* CBT based AI Smart Assistant/Mentor
+* Deep Work Mode (With build Assistant)
+* All Body Scan Guide (With Assistant) 
+* 3D Garden Mediation (With Assistant)
+* 3D Breath Studio (With Assistant) 
+* WisdomVault With speaker
+* Community and Leaderboards 
+* Hand Gesture Relief Games (With Assistant)
+
+---
+
 ## Categories
 * Mental Health & AI Wellness
 * Cognitive Behavioral Therapy (CBT) Tools

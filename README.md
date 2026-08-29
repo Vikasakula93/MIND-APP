@@ -1,6 +1,6 @@
 # AI MindSelf — Metacognitive AI Companion & Mental Wellness Studio
 
-## Disaster Management: Theme: Societal Innovation Collaboration Portal
+## Theme: Societal Innovation Collaboration Portal
 
 ## Overview 
 **AI MindSelf** is an AI-powered metacognitive and cognitive reframing console. It bridges evidence-based Cognitive Behavioral Therapy (CBT), somatic biofeedback regulation (body scanning & diaphragmatic breathing), and interactive philosophical mentorship (Stoicism, Taoism, and Eastern philosophy) into a unified personal wellness studio.

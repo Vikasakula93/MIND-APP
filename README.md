@@ -2,14 +2,54 @@
 
 ## Theme: Societal Innovation Collaboration Portal
 
-## Overview 
-**AI MindSelf** is an AI-powered metacognitive and cognitive reframing console. It bridges evidence-based Cognitive Behavioral Therapy (CBT), somatic biofeedback regulation (body scanning & diaphragmatic breathing), and interactive philosophical mentorship (Stoicism, Taoism, and Eastern philosophy) into a unified personal wellness studio.
+## Overview
+
+**AI MindSelf** is an AI-powered **metacognitive wellness companion** designed to help people manage everyday stress, negative thought patterns, and work-related mental fatigue.
+
+It combines **AI-assisted Cognitive Behavioral Therapy (CBT) techniques, guided breathing, body scanning, focused-work support, mindfulness, and philosophical wisdom** into one interactive wellness studio.
+
+Instead of simply tracking how users feel, AI MindSelf helps them **understand their thoughts, regulate their body, take constructive action, and build healthier mental habits.**
+
+---
 
 ## Pain Point
-Millions of individuals experience daily stress, anxiety, burnout, and persistent negative automatic thoughts. Traditional therapy can be expensive ($150–$200/hour) and difficult to schedule, while standard journaling or habit-tracking apps are passive and lack real-time personalized guidance, somatic feedback loops, or dynamic cognitive reframing.
+
+Modern work and daily life can create **chronic stress, anxiety, burnout, overthinking, and negative automatic thoughts**.
+
+Many existing wellness apps mainly provide **journaling, meditation, or habit tracking**, but they often lack real-time personalized guidance and connection between **mind, body, and behavior**.
+
+People need support that is:
+
+* **Accessible** — available whenever stress occurs
+* **Personalized** — adapts to the user's current situation
+* **Interactive** — guides rather than simply records
+* **Action-oriented** — converts reflection into practical steps
+* **Mind-body focused** — connects thoughts with physical tension and breathing
+
+---
 
 ## The Solution
-**AI MindSelf** acts as an instant, accessible metacognitive companion. It auto-identifies cognitive distortions in written thoughts, provides tailored reframing suggestions, guides diaphragmatic breathing, offers interactive body-scan feedback, and visualizes personal mental growth through a digital Zen Garden.
+
+**AI MindSelf** transforms self-care into an interactive, personalized experience.
+
+The AI companion can:
+
+🧠 **Understand Thoughts** — identify patterns such as catastrophizing, all-or-nothing thinking, and emotional reasoning.
+
+🔄 **Reframe Thinking** — provide guided questions and healthier alternative perspectives using CBT-inspired techniques.
+
+🫁 **Regulate the Body** — guide breathing exercises and body scans to help users practice relaxation.
+
+🎯 **Improve Focus** — use **Deep Work + Build Assistant** to turn goals into manageable actions and focused sessions.
+
+🌳 **Visualize Growth** — represent consistency and personal progress through an interactive **3D Zen Garden**.
+
+📚 **Provide Wisdom** — deliver philosophical reflections and practical lessons through the **WisdomVault**.
+
+✋ **Encourage Interaction** — use guided hand-gesture relief activities and interactive exercises.
+
+### **AI MindSelf: Understand Your Mind → Regulate Your Body → Take Better Action.**
+
 
 ---
 

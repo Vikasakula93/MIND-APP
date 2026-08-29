@@ -572,3 +572,4 @@ export const CommunityChallenges: React.FC<CommunityChallengesProps> = ({ userPr
   );
 };
 
+

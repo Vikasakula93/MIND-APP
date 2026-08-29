@@ -667,3 +667,4 @@ export const GrowthGardenVisualizer: React.FC<GrowthGardenProps> = ({ userProfil
   );
 };
 
+

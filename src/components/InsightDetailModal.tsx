@@ -62,3 +62,4 @@ export const InsightDetailModal: React.FC<InsightDetailModalProps> = ({
   );
 };
 
+

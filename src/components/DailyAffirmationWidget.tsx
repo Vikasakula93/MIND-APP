@@ -226,3 +226,4 @@ export const DailyAffirmationWidget: React.FC<DailyAffirmationWidgetProps> = ({ 
   );
 };
 
+

@@ -85,3 +85,4 @@ export const BadgesModal: React.FC<BadgesModalProps> = ({
   );
 };
 
+
